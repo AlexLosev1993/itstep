@@ -1,8 +1,15 @@
 New massage
+**********
 ------------------
 Next new massage
+<<<<<<< HEAD
 List:
 -Namber 1
 -Namber 2
 -Namber 3
 ------------------
+=======
+
+------------------
+другое исправление
+>>>>>>> new_branch
