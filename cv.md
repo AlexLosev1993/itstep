@@ -1,3 +1,8 @@
-#Лосев Алексей Анатольевч
+#Лосев Алексей Анатольевч 09.05.1993
 ![Photo](20211030_144536.jpg)
-[![Logo](вк.png)](https://vk.com/id161911352) [![Logo](гугул.png)](https://balagan565@gmail.com)
+##Мои соц.сети и почта:
+
+[![Logo](вк.png)](https://vk.com/id161911352) 
+
+balagan565@gmail.com<br/>AlexLosev1993@yandex.ru
+
