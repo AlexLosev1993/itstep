@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2a8788e-d4a5-4598-9617-acf4c3ca07ef" name="Changes" comment="исправил ссылку" />
+    <list default="true" id="d2a8788e-d4a5-4598-9617-acf4c3ca07ef" name="Changes" comment="добавил фото и почту">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <updated>1636101277381</updated>
       <workItem from="1636101282142" duration="8560000" />
       <workItem from="1636115079459" duration="3740000" />
-      <workItem from="1636216563364" duration="3553000" />
+      <workItem from="1636216563364" duration="4249000" />
     </task>
     <task id="LOCAL-00001" summary="создал ссылку на cv">
       <created>1636102517307</created>
@@ -122,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636216738900</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="добавил фото и почту">
+      <created>1636220308887</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636220308887</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +161,7 @@
     <MESSAGE value="добавил пункт" />
     <MESSAGE value="исправление ошибок" />
     <MESSAGE value="исправил ссылку" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил ссылку" />
+    <MESSAGE value="добавил фото и почту" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил фото и почту" />
   </component>
 </project>
