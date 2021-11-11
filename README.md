@@ -1,1 +1,1 @@
-https://AlexLosev1993.github.io/itstep-cv/cv
+https://AlexLosev1993.github.io/itstep/cv
